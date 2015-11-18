@@ -1,5 +1,5 @@
 Gif is a version control system.
-Gif is free sofware.
+Gif is a free sofware.
 Git is a distributed version control system.
 Git is free sofware distributed under the GPL.
 Git has a mutable index called stage.
